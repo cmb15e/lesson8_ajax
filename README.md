@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Dec. 8,2017
 
 ### Student Name:  
-(First and Last Name)
+Connor Blay
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I learned to use AJAX, JSON, and API.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cmb15e.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to connect an API with a JavaScript file.
+2. How to use AJAX.
+3. How to use JSON.
